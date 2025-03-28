@@ -1,0 +1,19 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,38,76,1) 0%, rgba(1,74,113,1) 0%, rgba(1,104,144,1) 0%, rgba(2,32,69,1) 0%, rgba(2,19,56,1) 0%, rgba(184,234,255,1) 0%, rgba(0,226,255,1) 99%);
+    text-align:center;
+}
+
+
+p{
+    text-align:left;
+}
+
+h3{
+    text-align:left;
+}
+
+img {
+    width:400px;
+    
+}
